@@ -1,0 +1,9 @@
+[submodule "packages/dino-api"]
+	path = packages/dino-api
+	url = https://github.com/sertaconay/dino-api.git
+[submodule "packages/dino-common"]
+	path = packages/dino-common
+	url = https://github.com/sertaconay/dino-common.git
+[submodule "packages/dino-example"]
+	path = packages/dino-example
+	url = https://github.com/sertaconay/dino-example.git

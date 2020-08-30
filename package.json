@@ -1,0 +1,24 @@
+{
+  "name": "@dino/app",
+  "version": "1.0.0",
+  "description": "dino app",
+  "author": "Sertaç Onay <sertac@onay.me>",
+  "license": "MIT",
+  "keywords": ["dino", "app"],
+  "bugs": {
+    "url": "https://github.com/sertaconay/dino/issues"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sertaconay/dino.git"
+  },
+  "homepage": "https://github.com/sertaconay/dino",
+  "scripts": {
+    "install-packages": "lerna exec -- yarn",
+    "run-packages": "lerna exec -- yarn start"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
